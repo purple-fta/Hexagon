@@ -4,11 +4,16 @@ Hexxagon is a classic turn-based strategy board game implemented in C++ using th
 
 ## Description
 
-Hexxagon is a two-player board game where the goal is to capture as many cells as possible. Players take turns cloning or moving their pieces to capture opponent's cells.
+Hexxagon is a two-player board game where the goal is to capture as many cells as possible. Players ta1ke turns cloning or moving their pieces to capture opponent's cells.
 This version supports both local multiplayer and playing against the computer (AI).
 
 
-## Demo Video
+## Screenshots
+### Menu
+![Menu](images/menu.png)
+### Game
+![Game](images/game.png)
+
 
 ## Features
 
@@ -21,12 +26,16 @@ This version supports both local multiplayer and playing against the computer (A
 
 1. Clone the repository:
 
-    `git clone ....`
+    ``` bash
+    git clone ....
+    ```
 2. Go to the project directory:
 
-    `cd Hexagon`
+    ``` bash
+    cd Hexagon
+    ```
 3. Build the project (using CMake):
-    ``` 
+    ``` bash
     mkdir build
     cd build
     cmake ..
@@ -34,10 +43,11 @@ This version supports both local multiplayer and playing against the computer (A
     ``` 
 4. Run the game:
 
-    `./Hexagon`
+    ``` bash
+    ./Hexagon
+    ```
 
 
 
 
 
-    
