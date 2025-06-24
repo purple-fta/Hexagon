@@ -21,6 +21,7 @@ This version supports both local multiplayer and playing against the computer (A
 - Graphical interface with SFML
 - Play against another player or the computer (AI)
 - Score tracking and winner detection
+- Animations
 
 ## Installation and Running
 
